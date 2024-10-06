@@ -1,8 +1,13 @@
 document.addEventListener("DOMContentLoaded", () => {
   //prevent the default behaviour of redirecting the browser after the form is submitted
+
   //create an event listener for create-task-form when submitted
-  let taskForm= document.getElementById("create-task-form");//create-task-form
-  taskForm.addEventListener("submit", function(event){
+  //let taskForm= document.getElementById("create-task-form");//create-task-form
+  //taskForm.addEventListener("submit", function(event)
+
+  //Create an event listener for myBtn
+  let myBtn= document.getElementById("myBtn");
+  myBtn.addEventListener("click", function(event){
       event.preventDefault();
 
       //get the "tasks" unordered list
