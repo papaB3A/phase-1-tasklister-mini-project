@@ -41,7 +41,7 @@ Or you can access the web application directly via this [https://papab3a-task-ma
 
 ## Support and contact details
 * Email : akumubenedict@gmail.com
-[GitHub](https://github.com/papaB3A)
+* [GitHub](https://github.com/papaB3A)
 
 ## [License](LICENSE)
 MIT License
