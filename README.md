@@ -60,7 +60,7 @@ You can access the web application directly here:
 ## Support and contact details
 If you have questions, feel free to reach out:
 * Email : akumubenedict@gmail.com
-[GitHub](https://github.com/papaB3A)
+* [GitHub](https://github.com/papaB3A)
 
 ## [License](LICENSE)
 MIT License
