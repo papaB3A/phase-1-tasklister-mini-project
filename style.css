@@ -35,3 +35,13 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.addedTask, .deleteBtn, .editBtn{
+  padding: 1em;
+  margin: 0.5em;
+}
+
+.addedTask{
+  border: none;
+  background-color: rgba(255, 255, 255, 0.75);
+}
